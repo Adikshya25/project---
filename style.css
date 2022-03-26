@@ -1,0 +1,64 @@
+body
+{
+
+    
+    background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width:100%;
+}
+#start, #restart
+{
+  
+    background-image: linear-gradient(to right, #fd746c 0%, #ff9068  51%, #fd746c  100%);
+   
+    font-size: 18px;
+    border-color: #CC95C0;
+}
+#status{
+    font-size: 22px;
+}
+h4{
+    background-color: blanchedalmond;
+    line-height: 2;
+    margin-bottom: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction-image{
+    display: inline-block;
+    width: 45%;
+}
+canvas{
+    margin-top: 50px;
+  
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    padding-top: 5px;
+    width: 100%;
+    background-color: ghostwhite;
+    line-height: 3;
+    text-align: center;
+
+    
+  
+    
+    
+}
